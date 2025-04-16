@@ -21,3 +21,7 @@ how to run python code
   Main screen after login to application using token 
   ![image](https://github.com/user-attachments/assets/ef9bccbe-4adb-44f0-9abb-582ccef27f40)
 
+  Click on Analyze button
+  ![image](https://github.com/user-attachments/assets/b27868ba-8c8e-4aeb-a272-7a358bded96a)
+
+
