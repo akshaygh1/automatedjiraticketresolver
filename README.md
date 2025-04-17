@@ -24,4 +24,10 @@ how to run python code
   Click on Analyze button
   ![image](https://github.com/user-attachments/assets/b27868ba-8c8e-4aeb-a272-7a358bded96a)
 
+  ![image](https://github.com/user-attachments/assets/79393940-1305-4e63-a065-705f7c78292d)
+
+  ![image](https://github.com/user-attachments/assets/9df015f5-0ef3-4fcd-95a2-769d3b1b9513)
+
+
+
 
