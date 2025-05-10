@@ -28,6 +28,14 @@ how to run python code
 
   ![image](https://github.com/user-attachments/assets/9df015f5-0ef3-4fcd-95a2-769d3b1b9513)
 
+  ![image](https://github.com/user-attachments/assets/107eee2c-49da-4c6c-9ae2-f50f5a7c2f5d)
+  
+  ![image](https://github.com/user-attachments/assets/654c0db9-cb63-4c1d-90f6-aa2186131259)
+
+  ![image](https://github.com/user-attachments/assets/fbcd6441-ef98-4757-9774-4e9544b9ad5d)
+
+
+
 
 
 
